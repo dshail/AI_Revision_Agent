@@ -1,6 +1,6 @@
 # 🤖 AI Revision Agent
 
-[![Tests](https://github.com/your-username/ai-revision-agent/workflows/Tests/badge.svg)](https://github.com/your-username/ai-revision-agent/actions)
+[![Tests](https://github.com/dshail/ai-revision-agent/workflows/Tests/badge.svg)](https://github.com/dshail/ai-revision-agent/actions)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
